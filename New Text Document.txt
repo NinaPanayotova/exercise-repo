@@ -1,3 +1,4 @@
 content...
 new line
 new
+change for a new branch
